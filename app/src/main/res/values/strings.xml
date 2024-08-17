@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlashGrocery</string>
+
+    <string name="Sweet_tooth">sweet tooth</string>
+    <string name="Stationary">Stationary</string>
+    <string name="pet_food">Pet food</string>
+    <string name="package_food">Beverages</string>
+    <string name="munchies">Munchies</string>
+    <string name="kitchen_essentials">Kitchen Essentials</string>
+    <string name="vegetable">Fresh Vegetables fruits</string>
+    <string name="cleaning_essentials">Cleaning essentials</string>
+
+    <string name="Apple">Apple</string>
+    <string name="Mango">Mango</string>
+    <string name="Orange">Orange</string>
+    <string name="Banana">Banana</string>
+    <string name="Pineapple">PineApple</string>
+    <string name="Pepsi1L">Pepsi</string>
+</resources>
