@@ -8,11 +8,12 @@ Payment Options: Secure payment gateways with multiple options like credit/debit
 Account Management: Users can create accounts, save favorite items, view order history, and manage addresses.<br>
 
 Key Concepts used :-
-1) MVVM
-2) Retrofit
-3) Firebase Authentication
-4) Firebase RealTime Database
-5) Coil library
+1) Scaffold
+2) MVVM
+3) Retrofit
+4) Firebase Authentication
+5) Firebase RealTime Database
+6) Coil library
 
 Screen One<br>
 1) User needs to enter his/here phone number.<br>
