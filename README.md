@@ -7,9 +7,9 @@ Real-time Updates: Notifications for order status, delivery tracking, and promot
 Payment Options: Secure payment gateways with multiple options like credit/debit cards, mobile wallets, and cash on delivery.
 Account Management: Users can create accounts, save favorite items, view order history, and manage addresses.<br>
 
-##Screen One<br>
-##1) User needs to enter his/here phone number.<br>
+Screen One<br>
+1) User needs to enter his/here phone number.<br>
 ![1](https://github.com/user-attachments/assets/7bbd33b1-bddb-4d62-8ce6-89a65d20b67d)<br>
 
-##2) Users needs to enter otp.<br>
+2) Users needs to enter otp.<br>
 ![2](https://github.com/user-attachments/assets/cba827a0-6794-4da7-a303-6be8241f9e3e)<br>
